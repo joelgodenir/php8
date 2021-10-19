@@ -1,5 +1,9 @@
 <?php
 
+
+    include 'menu.php';
+
+
 # STRING
 $a = "Ceci est une chaine de caratère";
 echo $a. " : ".gettype($a);
