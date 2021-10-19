@@ -10,5 +10,7 @@
    <a href='ternaires.php'> Ternaires </a>
    <br>
    <a href='for.php'> Boucle FOR </a>
+   <br>
+   <a href='while.php'> Boucle WHILE </a>
    <br> <br>" 
 ?>
