@@ -5,6 +5,6 @@
    <br>
    <a href= 'comparaisons.php'> Les comparaisons </a> 
    <br>
-   <a href='match.php'> Les MATCHS </a>
+   <a href='match.php'> Match <i> Nouveauté php 8 </i> </a>
    <br> <br>" 
 ?>
