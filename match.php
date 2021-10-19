@@ -1,5 +1,7 @@
 <?php
 
+/*  Permet de vérifier plusieurs valeurs, et de retourner une valeur en fonction du résultat */
+
 include 'menu.php';
 
 $firstName = "Joel";
