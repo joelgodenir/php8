@@ -1,5 +1,7 @@
 <?php
 
+include 'menu.php';
+
 $age = 18;
 $droitAcces;
 
