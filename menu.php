@@ -12,5 +12,7 @@
    <a href='for.php'> Boucle FOR </a>
    <br>
    <a href='while.php'> Boucle WHILE </a>
+   <br>
+   <a href='fonctions.php'> Les fonctions </a>
    <br> <br>" 
 ?>
